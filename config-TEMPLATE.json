@@ -1,12 +1,12 @@
 {
-	"token": "bot-token here",
-	"prefix": ".",
-	"owner": "owner id here",
-	"mainguildID": "guild id here",
-	"errorLogChannel": "channel id here",
-	"banLogChannel": "channel id here",
-	"joinLogChannel": "channel id here",
-	"deleteLogChannel": "channel id here",
+	"token": "",
+	"prefix": "cu!",
+	"owner": "483999069023502336",
+	"mainguildID": "640303419621638172",
+	"errorLogChannel": "659931075736240128",
+	"banLogChannel": "659931168602325022",
+	"joinLogChannel": "659931537755602953",
+	"deleteLogChannel": "659931647415812118",
 	"censoredWords": ["nigga", "nigger", "https://discord.gg/", "https://www.youtube.com/"],
 	"warnBuffer": "5", 
 	"maxBuffer": "10",
@@ -16,6 +16,6 @@
 	"maxDuplicatesWarning": "7",
 	"maxDuplicatesBan": "10",
 	"deleteMessagesAfterBanForPastDays": "7",
-	"exemptRoles": ["Admin", "Moderator"],
+	"exemptRoles": ["CarrotTech", "CarrotTech"],
 	"exemptUsers": ["user#0001", "user#0002"]
 }
